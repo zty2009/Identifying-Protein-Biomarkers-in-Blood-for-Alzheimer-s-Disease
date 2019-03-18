@@ -1,0 +1,167 @@
+Alzheimer Disease	ementia	0.9733119103849155
+Alzheimer Disease	HIV Infections	0.11505450622413163
+Alzheimer Disease	Cerebrovascular Disorders	0.23818047623650931
+Alzheimer Disease	Huntington Disease	0.3578693624231241
+Alzheimer Disease	Brain Diseases	0.3508681389787532
+Alzheimer Disease	Bipolar Disorder	0.4059620244303505
+Alzheimer Disease	Ocular Motility Disorders	0.1492454708103799
+Alzheimer Disease	Gerstmann-Straussler-Scheinker Disease	0.1833436345531103
+Alzheimer Disease	Dyskinesia, Drug-Induced	0.11951603219730665
+Alzheimer Disease	Subacute Sclerosing Panencephalitis	0.14061199579752906
+Alzheimer Disease	Niemann-Pick Disease, Type C	0.18342056493221998
+Alzheimer Disease	Neurotoxicity Syndromes	0.32703558376861575
+Alzheimer Disease	Multiple Sclerosis, Relapsing-Remitting	0.29144118366477256
+Alzheimer Disease	Psychoses, Substance-Induced	0.21179459479691962
+Alzheimer Disease	Intracranial Hemorrhages	0.10340489788059747
+Alzheimer Disease	Hepatic Encephalopathy	0.20233128029347502
+Alzheimer Disease	Lymphoma, T-Cell	0.11511480890204617
+Alzheimer Disease	Glioblastoma	0.33929881055290145
+Alzheimer Disease	Basal Ganglia Diseases	0.22090813417642913
+Alzheimer Disease	Hypoxia-Ischemia, Brain	0.2316191825186988
+Alzheimer Disease	Encephalitis, Herpes Simplex	0.42078212510483237
+Alzheimer Disease	Central Nervous System Diseases	0.20492609331681313
+Alzheimer Disease	Infarction, Middle Cerebral Artery	0.14049559585884586
+Alzheimer Disease	Spastic Paraplegia, Hereditary	0.12093520814541549
+Alzheimer Disease	Tobacco Use Disorder	0.18989113942353356
+Alzheimer Disease	Diffuse Cerebral Sclerosis of Schilder	0.10605670812635729
+Alzheimer Disease	Multiple Sclerosis	0.23385259320456553
+Alzheimer Disease	Thyroid Hormone Resistance Syndrome	0.11524426558258105
+Alzheimer Disease	Multiple Sclerosis, Chronic Progressive	0.38889106574115273
+Alzheimer Disease	Brain Injuries	0.48317809271569206
+Alzheimer Disease	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.22011064425041885
+Alzheimer Disease	Epilepsy, Rolandic	0.25432785013747616
+Alzheimer Disease	Glioma	0.3219155740488434
+Alzheimer Disease	Creutzfeldt-Jakob Syndrome	0.22238109549985277
+Alzheimer Disease	Hydrocephalus	0.22033996057794075
+Alzheimer Disease	Rubinstein-Taybi Syndrome	0.11041075345253669
+Alzheimer Disease	Motor Neuron Disease	0.10978104528208539
+Alzheimer Disease	Fatigue Syndrome, Chronic	0.15000879706667958
+Alzheimer Disease	Migraine with Aura	0.1156057643085802
+Alzheimer Disease	Learning Disorders	0.11019206588412288
+Alzheimer Disease	Hypothyroidism	0.18857507940250062
+Alzheimer Disease	Cerebellar Diseases	0.10468270811579519
+Alzheimer Disease	Narcolepsy	0.17456091825185205
+Alzheimer Disease	Psychotic Disorders	0.30575912795923915
+Alzheimer Disease	Cocaine-Related Disorders	0.3176545219429093
+Alzheimer Disease	Carcinoma, Small Cell	0.11800359598210976
+Alzheimer Disease	Asperger Syndrome	0.22042344168043457
+Alzheimer Disease	Neoplasms, Germ Cell and Embryonal	0.10113664936898978
+Alzheimer Disease	Anxiety Disorders	0.23469533046214713
+Alzheimer Disease	Epilepsy, Absence	0.1141299017029833
+Alzheimer Disease	Alcohol-Related Disorders	0.24741817249361353
+Alzheimer Disease	Brain Diseases, Metabolic, Inborn	0.13582908497834872
+Alzheimer Disease	Hashimoto Disease	0.35037865231245335
+Alzheimer Disease	Supranuclear Palsy, Progressive	0.18227776270916207
+Alzheimer Disease	Fetal Alcohol Syndrome	0.12755816952613777
+Alzheimer Disease	Arachnoid Cysts	0.1490068908865203
+Alzheimer Disease	Nervous System Malformations	0.21266633649912503
+Alzheimer Disease	Substance-Related Disorders	0.37991992044773504
+Alzheimer Disease	Brain Diseases, Metabolic	0.18070471227631701
+Alzheimer Disease	Leukodystrophy, Metachromatic	0.13026685596954157
+Alzheimer Disease	Memory Disorders	0.8429044158141675
+Alzheimer Disease	Restless Legs Syndrome	0.13271253109068362
+Alzheimer Disease	Neuroectodermal Tumors, Primitive	0.14312958511074722
+Alzheimer Disease	Epilepsy, Frontal Lobe	0.2245282602123449
+Alzheimer Disease	Dementia, Vascular	0.9059547745437098
+Alzheimer Disease	Neurodegenerative Diseases	0.4409773964660609
+Alzheimer Disease	Reperfusion Injury	0.1066492398807408
+Alzheimer Disease	Cerebral Amyloid Angiopathy	0.3638863646488191
+Alzheimer Disease	Personality Disorders	0.1409546665908259
+Alzheimer Disease	Cerebral Hemorrhage	0.23042881926067443
+Alzheimer Disease	Iron Metabolism Disorders	0.23223458735248656
+Alzheimer Disease	Tauopathies	0.29472305730182513
+Alzheimer Disease	Williams Syndrome	0.3452345222217702
+Alzheimer Disease	Hypoxia, Brain	0.17080602061532896
+Alzheimer Disease	Prion Diseases	0.23031451452516724
+Alzheimer Disease	Legionnaires' Disease	0.11511474710018092
+Alzheimer Disease	Spinocerebellar Ataxias	0.12040572438488006
+Alzheimer Disease	Epilepsy, Complex Partial	0.24480765103181845
+Alzheimer Disease	Niemann-Pick Diseases	0.11385456783944754
+Alzheimer Disease	DiGeorge Syndrome	0.24844325989634097
+Alzheimer Disease	Nasopharyngeal Neoplasms	0.14149582788947504
+Alzheimer Disease	Muscular Dystrophy, Duchenne	0.1088905265424262
+Alzheimer Disease	Intracranial Arteriovenous Malformations	0.23411661304571754
+Alzheimer Disease	Neoplasms, Squamous Cell	0.2309980736713088
+Alzheimer Disease	Spinocerebellar Degenerations	0.1315872161478261
+Alzheimer Disease	Herpes Simplex	0.30506971040502856
+Alzheimer Disease	Sandhoff Disease	0.16413032082422727
+Alzheimer Disease	Down Syndrome	0.20037177180626
+Alzheimer Disease	Antisocial Personality Disorder	0.1854225603047899
+Alzheimer Disease	Schizophrenia	0.46327499453447457
+Alzheimer Disease	Sea-Blue Histiocyte Syndrome	0.10457291565410318
+Alzheimer Disease	Brain Ischemia	0.36110160491934884
+Alzheimer Disease	Epilepsy	0.17011028102507306
+Alzheimer Disease	Parkinsonian Disorders	0.21709079999761854
+Alzheimer Disease	Cerebral Infarction	0.25669491811216444
+Alzheimer Disease	Lead Poisoning	0.1257395256266054
+Alzheimer Disease	CADASIL	0.3298743140765328
+Alzheimer Disease	Epilepsy, Tonic-Clonic	0.15132255670492561
+Alzheimer Disease	Depressive Disorder	0.33762314375172814
+Alzheimer Disease	Supratentorial Neoplasms	0.15213924679385388
+Alzheimer Disease	Intracranial Aneurysm	0.20094100420954614
+Alzheimer Disease	Pick Disease of the Brain	0.2920312902736442
+Alzheimer Disease	Cognition Disorders	0.887206614222613
+Alzheimer Disease	Psychomotor Agitation	0.30392789241254287
+Alzheimer Disease	Acrocallosal Syndrome	0.12263240051354077
+Alzheimer Disease	Epilepsy, Temporal Lobe	0.6272901212430986
+Alzheimer Disease	Machado-Joseph Disease	0.10435700423228558
+Alzheimer Disease	Neuronal Ceroid-Lipofuscinoses	0.16876922588381532
+Alzheimer Disease	Olivopontocerebellar Atrophies	0.14838540647487916
+Alzheimer Disease	Alcoholism	0.44125917729125136
+Alzheimer Disease	Medulloblastoma	0.11336945751500102
+Alzheimer Disease	Amphetamine-Related Disorders	0.7542071556034768
+Alzheimer Disease	Hemangioma, Cavernous, Central Nervous System	0.10598563662110885
+Alzheimer Disease	Craniocerebral Trauma	0.26824494834818685
+Alzheimer Disease	Motor Skills Disorders	0.2710620134219967
+Alzheimer Disease	Genetic Predisposition to Disease	0.3274837547465812
+Alzheimer Disease	Aphasia	0.15510783653362478
+Alzheimer Disease	Mood Disorders	0.5133084656506848
+Alzheimer Disease	Epilepsy, Generalized	0.15303163129404376
+Alzheimer Disease	Stereotypic Movement Disorder	0.10247939291421788
+Alzheimer Disease	Nerve Degeneration	0.5787838228711388
+Alzheimer Disease	Folic Acid Deficiency	0.12919951992919476
+Alzheimer Disease	Brain Neoplasms	0.310907975199331
+Alzheimer Disease	Movement Disorders	0.15569124579594015
+Alzheimer Disease	Hyperhomocysteinemia	0.4236475644656484
+Alzheimer Disease	Leukoencephalopathies	0.16719299348503447
+Alzheimer Disease	Heredodegenerative Disorders, Nervous System	0.14554878139226887
+Alzheimer Disease	Parkinson Disease	0.26182981473942685
+Alzheimer Disease	Epilepsies, Partial	0.2137260107230444
+Alzheimer Disease	Frontotemporal Dementia	0.3066589656096271
+Alzheimer Disease	Primary Ovarian Insufficiency	0.10810831181846645
+Alzheimer Disease	Iron Overload	0.1029637144991475
+Alzheimer Disease	Periventricular Nodular Heterotopia	0.341755725029277
+Alzheimer Disease	Ischemic Attack, Transient	0.33673721248788974
+Alzheimer Disease	HIV Seropositivity	0.2775888104009004
+Alzheimer Disease	Substance Withdrawal Syndrome	0.2368972121669731
+Alzheimer Disease	Anemia, Pernicious	0.11387358510897821
+Alzheimer Disease	Leishmaniasis, Cutaneous	0.10853859798312089
+Alzheimer Disease	Apraxias	0.12062966426770044
+Alzheimer Disease	Astrocytoma	0.23468028137583308
+Alzheimer Disease	Parkinson Disease, Secondary	0.17590748962366032
+Alzheimer Disease	Heroin Dependence	0.17447603761597505
+Alzheimer Disease	Insulinoma	0.13607915259981146
+Alzheimer Disease	Frontotemporal Lobar Degeneration	0.5175418032564684
+Alzheimer Disease	Amyotrophic Lateral Sclerosis	0.13479068700909502
+Alzheimer Disease	Thyroiditis, Autoimmune	0.1950763928285749
+Alzheimer Disease	Stroke	0.181829925150695
+Alzheimer Disease	Obsessive-Compulsive Disorder	0.2985896122630476
+Alzheimer Disease	Multiple System Atrophy	0.18541866172168442
+Alzheimer Disease	Depressive Disorder, Major	0.5584670155777013
+Alzheimer Disease	Attention Deficit Disorder with Hyperactivity	0.1818038366925885
+Alzheimer Disease	Mucopolysaccharidosis III	0.10175732831887212
+Alzheimer Disease	Striatonigral Degeneration	0.17181341642156528
+Alzheimer Disease	Developmental Disabilities	0.13103308564455599
+Alzheimer Disease	Alcohol Withdrawal Delirium	0.20608208654048218
+Alzheimer Disease	Persian Gulf Syndrome	0.13371196403951216
+Alzheimer Disease	Xanthomatosis	0.11136027888372314
+Alzheimer Disease	Death	0.1409284288479178
+Alzheimer Disease	Vitamin B 12 Deficiency	0.23361032808433643
+Alzheimer Disease	Bulbo-Spinal Atrophy, X-Linked	0.1765433381798576
+Alzheimer Disease	Demyelinating Diseases	0.12504320395460722
+Alzheimer Disease	Language Disorders	0.1748977933250388
+Alzheimer Disease	Sclerosis	0.26241616453312633
+Alzheimer Disease	Lewy Body Disease	0.35170942381188025
+Alzheimer Disease	Atrophy	0.8156290480909141
+Alzheimer Disease	Insomnia, Fatal Familial	0.2696192014897332
+Alzheimer Disease	Meningioma	0.1719989204839152
